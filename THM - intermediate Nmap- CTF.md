@@ -15,7 +15,7 @@ First, I started by doing a scan to find open ports, services, and service versi
 
 
 
-I found that port 22 and 31337, another high port/unknown port was open. 
+I found that port 22 and 31337 were open. 
 
 
 Based on the room instructions I could already tell that this challenge would involve remoting into the server using SHH, but seeing port 22 open solidified that idea. 
