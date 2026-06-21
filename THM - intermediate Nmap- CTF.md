@@ -10,7 +10,7 @@ First, I started by doing a scan to find open ports, services, and service versi
 
 <img width="705" height="191" alt="Pasted image 20260621175310" src="https://github.com/user-attachments/assets/068d317f-c3b9-45cf-a054-f12d9de65d13" />
 
-I found that ports 22 and 31337 were open.
+I found that ports 22 and 31337 were open. With 31337 being more noticable as a high port.
 
 Based on the room instructions, I could already tell that this challenge would involve remoting into the server using SSH, but seeing port 22 open solidified that idea.
 
